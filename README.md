@@ -13,7 +13,7 @@
 - Colocar uma imagem pessoal;
 - Alocar os botões na tela;
 - Deixar todos do mesmo tamanho;
-- Arredondar os cantos;
+
 - Criar outras páginas para os links;
-- Mudar as fotes;
+- Mudar as fontes;
 

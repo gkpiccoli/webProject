@@ -60,7 +60,7 @@ text-transform: uppercase;}
 .button1 {
   background-color: #1d64c2;
   color: black;
-  border: 2px solid;
+  border-radius: 16px;
 }
 .button2 {
   background-color: #7fadeb;

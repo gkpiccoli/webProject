@@ -11,9 +11,9 @@
 ### Need to be done
 
 - Colocar uma imagem pessoal;
-- Alocar os botões na tela;
-- Deixar todos do mesmo tamanho;
-
+- Alocar os botões na tela e deixar todos do mesmo tamanho;
+- Organizar melhor a distribuição de conteúdo na tela
+- Melhorar layout visual 
 - Criar outras páginas para os links;
 - Mudar as fontes;
 
